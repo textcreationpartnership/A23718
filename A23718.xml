@@ -129,26 +129,32 @@
          <text xml:lang="eng">
             <front>
                <div type="title_page">
-                  <figure>
-                     <p>The Gentlemans CALLING</p>
-                     <p>
-                        <q>
-                           <gap reason="foreign">
-                              <desc>〈 in non-Latin alphabet 〉</desc>
-                           </gap>
-                        </q>
-                        <bibl>1. Cor. VII. 24</bibl>
-                     </p>
-                     <p>LONDON <hi>Printed for Tim; Garthwait</hi> 1660</p>
-                  </figure>
-                  <figure>
-                     <head>Reputation</head>
-                     <p>
-                        <q>When I prepared my Seat—The Aged Stood up <lb/>Princes Layd their hand on their Mouth.</q>
-                        <bibl> 
-                           <hi>Iob.</hi> Chap. 29. ver. 7. 8. 9</bibl>
-                     </p>
-                  </figure>
+                  <p>
+                     <pb facs="tcp:66120:1"/>
+                     <figure>
+                        <p>The Gentlemans CALLING</p>
+                        <p>
+                           <q>
+                              <gap reason="foreign">
+                                 <desc>〈 in non-Latin alphabet 〉</desc>
+                              </gap>
+                           </q>
+                           <bibl>1. Cor. VII. 24</bibl>
+                        </p>
+                        <p>LONDON <hi>Printed for Tim; Garthwait</hi> 1660</p>
+                     </figure>
+                  </p>
+                  <p>
+                     <pb facs="tcp:66120:1"/>
+                     <figure>
+                        <head>Reputation</head>
+                        <p>
+                           <q>When I prepared my Seat—The Aged Stood up <lb/>Princes Layd their hand on their Mouth.</q>
+                           <bibl> 
+                              <hi>Iob.</hi> Chap. 29. ver. 7. 8. 9</bibl>
+                        </p>
+                     </figure>
+                  </p>
                   <figure>
                      <head>Nobility</head>
                   </figure>
